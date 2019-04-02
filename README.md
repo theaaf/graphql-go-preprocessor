@@ -1,4 +1,4 @@
-# graphql-preprocessor-go
+# graphql-go-preprocessor
 
 This is a small preprocessor for graphql-go schema structures. Given a schema, it can systematically remove or modify definitions. It's used primarily via a single function:
 
